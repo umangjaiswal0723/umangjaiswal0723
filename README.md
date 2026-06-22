@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Umang%20portfolio.png" alt="Banner">
+</p>
+
 <div align="center">
 
 # Hey 👋, I'm Umang Jaiswal
